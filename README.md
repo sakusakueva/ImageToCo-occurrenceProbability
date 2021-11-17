@@ -12,43 +12,13 @@ The obtained co-occurrence probability can be plotted as a 2D image or a 3D hist
 * Python 3.8.10
 * matplotlib 3.4.2
 
-
-You can learn how to making cute physics simulations (looks retro game).
- 
-![](https://cpp-learning.com/wp-content/uploads/2019/05/pyxel-190505-161951.gif)
- 
-This animation is a "Cat playing on trampoline"!
-You can get basic skills for making physics simulations.
- 
-# Features
- 
-Physics_Sim_Py used [pyxel](https://github.com/kitao/pyxel) only.
- 
-```python
-import pyxel
-```
-[Pyxel](https://github.com/kitao/pyxel) is a retro game engine for Python.
-You can feel free to enjoy making pixel art style physics simulations.
- 
-# Requirement
- 
-* Python 3.6.5
-* pyxel 1.0.2
- 
-Environments under [Anaconda for Windows](https://www.anaconda.com/distribution/) is tested.
- 
-```bash
-conda create -n pyxel pip python=3.6 Anaconda
-activate pyxel
-```
- 
-# Installation
- 
-Install Pyxel with pip command.
- 
-```bash
-pip install pyxel
-```
+## Note
+I　have only tested in the following environment:
+* Ubuntu 20.04
+* c++17
+* OpenCV 3.4.3
+* Python 3.8.10
+* matplotlib 3.4.2
  
 # Usage
  
@@ -61,20 +31,13 @@ Run "demo.py"
 python demo.py
 ```
  
-# Note
+
  
-I don't test environments under Linux and Mac.
+## Author
+* Sakura Eba
+* Chukyo University, Japan.
+* Lab : http://asmi.sist.chukyo-u.ac.jp/m1/eba/
  
-# Author
- 
-* Hayabusa
-* R&D Center
-* Twitter : https://twitter.com/Cpp_Learning
- 
-# License
- 
-"Physics_Sim_Py" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-Enjoy making cute physics simulations!
- 
-Thank you!
+## License
+"ImageToCo-occurrenceProbability" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
