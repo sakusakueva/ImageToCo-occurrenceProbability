@@ -57,12 +57,12 @@ The output of the CoP class is as follows:
     <td>Default</td>
   </tr>
   <tr>
-    <td>Image</td>
+    <td>Save image</td>
     <td>image</td>
     <td>true</td>
   </tr>
   <tr>
-    <td>Test</td>
+    <td>1D text file</td>
     <td>text</td>
     <td>true</td>
   </tr>
