@@ -4,6 +4,12 @@ These codes are written in C++ and have been verified to work with OpenCV 3.4.3.
 Calculates [the probability of co-occurrence]() from gray-scale images.
 The obtained co-occurrence probability can be plotted as a 2D image or a 3D histogram.
 
+## Requirement
+* c++17
+* OpenCV 3.4.3
+* Python 3.8.10
+* matplotlib 3.4.2
+
 ## Demo
 1. Clone
 ~~~
@@ -27,11 +33,6 @@ $ ./Co-P -i MandrillGray.bmp
 ~~~
 
 
-## Requirement
-* c++17
-* OpenCV 3.4.3
-* Python 3.8.10
-* matplotlib 3.4.2
 
 ## Note
 I have only tested in the following environment:
@@ -51,9 +52,7 @@ Run "demo.py"
 ```bash
 python demo.py
 ```
- 
 
- 
 ## Author
 * Sakura Eba
 * Chukyo University, Japan.
