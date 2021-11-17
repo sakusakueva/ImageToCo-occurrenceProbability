@@ -13,7 +13,7 @@ The obtained co-occurrence probability can be plotted as a 2D image or a 3D hist
 * matplotlib 3.4.2
 
 ## Note
-I　have only tested in the following environment:
+I have only tested in the following environment:
 * Ubuntu 20.04
 * c++17
 * OpenCV 3.4.3
