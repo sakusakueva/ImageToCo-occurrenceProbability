@@ -11,6 +11,7 @@ $ git clone https://github.com/sakusakueva/ImageToCo-occurrenceProbability.git
 $ cd ImageToCo-occurrenceProbability
 ~~~
 ### Compile
+When you compile with 'make', you will have a build directory and a result directory.
 ~~~
 $ make
 ~~~
