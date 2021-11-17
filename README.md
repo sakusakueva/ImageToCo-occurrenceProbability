@@ -49,15 +49,29 @@ I have only tested in the following environment:
 * matplotlib 3.4.2
  
 # Usage
- 
-Please create python code named "demo.py".
-And copy &amp; paste [Day4 tutorial code](https://cpp-learning.com/pyxel_physical_sim4/).
- 
-Run "demo.py"
- 
-```bash
-python demo.py
-```
+The output of the CoP class is as follows:
+<table>
+  <tr>
+    <td>Mode</td>
+    <td>Argument</td>
+    <td>Default</td>
+  </tr>
+  <tr>
+    <td>Image</td>
+    <td>image</td>
+    <td>true</td>
+  </tr>
+  <tr>
+    <td>Test</td>
+    <td>text</td>
+    <td>true</td>
+  </tr>
+  <tr>
+    <td>Show image</td>
+    <td>window</td>
+    <td>true</td>
+  </tr>
+</table>
 
 ## Author
 * Sakura Eba
