@@ -11,17 +11,17 @@ The obtained co-occurrence probability can be plotted as a 2D image or a 3D hist
 * matplotlib 3.4.2
 
 ## Demo
-1. Clone
+## 1. Clone
 ~~~
 $ git clone https://github.com/sakusakueva/ImageToCo-occurrenceProbability.git
 $ cd ImageToCo-occurrenceProbability
 ~~~
-2. Compile
+## 2. Compile
 When you compile with `make`, you will have a build directory and a result directory.
 ~~~
 $ make
 ~~~
-3. Run
+## 3. Run
 Please enter the following command to run the sample program.
 ~~~
 $ ./Co-P -i <input image path>
