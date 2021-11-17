@@ -5,6 +5,11 @@ Calculates the probability of co-occurrence from gray-scale images.
 The obtained co-occurrence probability can be plotted as a 2D image or a 3D histogram.
 
 ## Demo
+### Compile
+~~~
+git clone 
+cd ImageToCo-occurrenceProbability
+~~~
 
 ## Requirement
 * c++17
